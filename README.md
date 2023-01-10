@@ -1,13 +1,31 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+<h1>MongoDB Commerce</h1>
+<p>Este projeto foi desenvolvido em dezembro de 2022 durante meus estudos na <a href="https://www.betrybe.com/">Trybe</a>.</p>
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<br/>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<h2>O quê foi desenvolvido</h2>
+<p>Foram concluídos desafios que simulavam o CRUD (Create, Read, Update e Delete) em um banco de dados MongoDB.</p>
+<br/>
+  
+<h2>O quê foi avaliado</h2>
+<ul>
+  <li>Se as queries desenvolvidas retornam exatamente os atributos e a quantidade de documentos esperados, dentro do que foi pedido;</li>
+  <li>Organização do código.</li>
+</ul>
+
+<br/>
+
+<h2>Guia de instalação</h2> 
+<ol>
+  <li>
+    <p>Clone o repositório</p>
+    <pre>git clone git@github.com:celso-rodrigo/mongodb-commerce.git</pre>
+  </li>
+  <li>
+    <p>Abra a pasta do repositório</p>
+  </li>
+  <li>
+    <p>Instale as dependências</p>
+    <pre>npm install</pre>
+  </li>
+</ol>
